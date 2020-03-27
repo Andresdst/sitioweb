@@ -1,0 +1,12 @@
+{
+    "slug": "online",
+    "title":"formacion de cursos online",
+    "descripcion":"cursos en linea",
+    "items":[
+        {
+            "name":"Platzi",
+            "curso":"Teletrabajo o trabajop remoto",
+            "url":"http://tumama.com"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "slug": "presencial",
+    "title":"formacion academica",
+    "descripcion":"grados de estudio",
+    "items":[
+        {
+            "name":"Universidad Arturo Michelena",
+            "degree":"Ing. Electronico"
+        }
+    ]
+}

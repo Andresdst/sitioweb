@@ -1,0 +1,11 @@
+{
+    "slug": "others",
+    "title":"talleres y diplomados",
+    "descripcion":"otros logros academicos",
+    "items":[
+        {
+            "name":"Ceujap",
+            "titulo":"Ing. Electronico"
+        }
+    ]
+}
