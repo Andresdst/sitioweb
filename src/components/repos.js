@@ -19,7 +19,7 @@ export default () => {
         
 
         async function fetchRepos(){
-            const response = await fetch("https://api.github.com/users/codigofacilito/repos")
+            const response = await fetch("https://api.github.com/users/andresdst/repos")
             resjson = await response.json()
             setReposCon(resjson.length)
 
